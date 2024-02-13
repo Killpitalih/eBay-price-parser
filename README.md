@@ -1,10 +1,10 @@
 # eBay Store Scraper and Data Exporter
 
-### Description:
+## Description:
 
 In this project, I developed a versatile and efficient eBay Store Scraper and Data Exporter using Python. The tool allows users to input a link to an eBay seller's store, scrape product information from multiple pages, and export the data into an organized Excel file.
 
-### Key Features:
+## Key Features:
 
 #### User Interaction:
 The script prompts users to input the eBay store link, making the tool adaptable to various seller pages.
@@ -21,7 +21,7 @@ The extracted data is structured into an Excel file using the openpyxl library. 
 #### Modular Design:
 The code is organized into functions, promoting modularity and ease of maintenance. This design choice facilitates scalability for potential future enhancements.
 
-### Why Choose This Tool:
+## Why Choose This Tool:
 
 Ideal for businesses or individuals seeking to monitor pricing trends, analyze product information, or conduct market research on eBay.
 
@@ -29,7 +29,7 @@ Provides a user-friendly interface for extracting and exporting data, making it 
 
 Customizable and adaptable to different eBay store layouts, ensuring the tool's longevity and versatility.
 
-### Technologies Used:
+## Technologies Used:
 
 Python
 BeautifulSoup
